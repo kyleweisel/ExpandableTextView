@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaxLinesTextView">
+        <attr name="maxLinesWhenCollapsed" format="integer"/>
+        <attr name="collapseAnimationDuration" format="integer"/>
+        <attr name="expandAnimationDuration" format="integer"/>
+    </declare-styleable>
+</resources>
